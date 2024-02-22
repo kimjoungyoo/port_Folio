@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c835284627c78346a9735f53b964010, type: 3}
+  m_Name: DataController
+  m_EditorClassIdentifier: 
+  coin_Main: 0
+  level: 1
+  attackLevel: 0
+  attackSpeedLevel: 0
+  moveSpeedLevel: 0
+  expRatio: 1000
+  coin_Temp: 0
+  currentHp: 1050
+  maxHp: 1050
+  attackRatio: 1
+  armorRatio: 1
+  attackSpeedRatio: 1
+  moveSpeedRatio: 1
+  attackForceRatio: 1
+  knockbackRatio: 1
+  waveLevel: 1
+  enemyLeft: 20
